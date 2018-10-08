@@ -16,6 +16,7 @@ Die ist ein ergänzendes Repo für das Tutorium zu "Programmiersprache 1" im WS 
 
 ### Linkliste
 
+* [Kurs Material zu "Programmiersprache 1"](http://mat1.uibk.ac.at/download/stix/C%20und%20C++/)
 * [Anleitung für Zugang zum Filesystem Windows](https://www.uibk.ac.at/zid/faq/ftp-zugang.html)
 * [Zugang zum Linux System](https://www.uibk.ac.at/zid/systeme/linux/lpccs_4/benutzeranleitung_zid-gpl.html)
 	+ Sie können zid-gpl-uibk.ac.at als Server für PuTTY verwenden

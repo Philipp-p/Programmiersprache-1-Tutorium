@@ -22,6 +22,15 @@ Die ist ein ergänzendes Repo für das Tutorium für "Programmiersprache 1" im W
 	+ Sie können auch den server zig-gpl.uibk.ac.at für WinSCP verwenden um über das SCP Zugang zum Filesystem zu bekommen
 * [Anleitung für das VPN Netzwerk der Universität Innsbruck](https://www.uibk.ac.at/zid/netz-komm/vpn/anyconnect/)
 
+### Dualboot
+
+* [Guide to install Ubuntu alongside of Windows](https://itsfoss.com/install-ubuntu-1404-dual-boot-mode-windows-8-81-uefi/)
+	+ Ubuntu ist die weiterbreiteste Linux Distro, jedoch gibt es zahlreiche andere 
+
+### VirtualBox
+
+* [Download](https://www.virtualbox.org/wiki/Downloads)
+* [Guide to install Ubuntu in a VirtualBox](https://linuxhint.com/install_ubuntu_18-04_virtualbox/)
 
 
 

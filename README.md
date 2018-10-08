@@ -2,7 +2,7 @@
 
 ## Allgemeines 
 
-Die ist ein ergänzendes Repo für das Tutorium für "Programmiersprache 1" im WS 18/19 der Universität Innsbruck
+Die ist ein ergänzendes Repo für das Tutorium zu "Programmiersprache 1" im WS 18/19 der Universität Innsbruck
 
 
 ### Software

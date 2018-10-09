@@ -36,9 +36,13 @@ Die ist ein ergänzendes Repo für das Tutorium zu "Programmiersprache 1" im WS 
 
 ### Compiler
 * Flogs:
-	+ ´´´ g++='g++ -Wall -Wextra -pedantic -std=c++17 -g ´´´ , wobei -g nur für debugging gebraucht wird und ansonsten weggelassen werden kann/soll
+	+ ``` g++='g++ -Wall -Wextra -pedantic -std=c++17 -g ``` , wobei -g nur für debugging gebraucht wird und ansonsten weggelassen werden kann/soll
 
 ### Mac
 
 * [Install Hombrew](https://brew.sh)
 * ``` brew install gcc ``` um g++ zu installieren
+
+### Windows Subsystem for Linux
+
+* [Guide to install Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)

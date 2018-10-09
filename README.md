@@ -34,4 +34,7 @@ Die ist ein ergänzendes Repo für das Tutorium zu "Programmiersprache 1" im WS 
 * [Guide to install Ubuntu in a VirtualBox](https://linuxhint.com/install_ubuntu_18-04_virtualbox/)
 
 
+### Mac
 
+* [Install Hombrew](https://brew.sh)
+* ``` brew install gcc ``` um g++ zu installieren

@@ -34,6 +34,10 @@ Die ist ein ergänzendes Repo für das Tutorium zu "Programmiersprache 1" im WS 
 * [Guide to install Ubuntu in a VirtualBox](https://linuxhint.com/install_ubuntu_18-04_virtualbox/)
 
 
+### Compiler
+* Flogs:
+	+ ´´´ g++='g++ -Wall -Wextra -pedantic -std=c++17 -g ´´´ , wobei -g nur für debugging gebraucht wird und ansonsten weggelassen werden kann/soll
+
 ### Mac
 
 * [Install Hombrew](https://brew.sh)

@@ -35,8 +35,9 @@ Die ist ein ergänzendes Repo für das Tutorium zu "Programmiersprache 1" im WS 
 
 
 ### Compiler
-* Flogs:
-	+ ``` g++='g++ -Wall -Wextra -pedantic -std=c++17 -g ``` , wobei -g nur für debugging gebraucht wird und ansonsten weggelassen werden kann/soll
+* Flags:
+	+ ``` g++ -Wall -Wextra -pedantic -std=c++17 -g ``` , wobei -g nur für debugging gebraucht wird und ansonsten weggelassen werden kann/soll
+	+ mit ``` -o [NAME] ``` kann man den output bestimmen, wobei [NAME] mit einen beliebigen Name zu ersetzten ist
 
 ### Mac
 

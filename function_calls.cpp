@@ -17,7 +17,7 @@ int main() {
     int a = 3;
     int b = 5;
     int result = sum_return_value(a, b);
-    print_values(a,b);
+    print_values(a, b);
     std::cout << "result: " << result << '\n';
     sum_reference(a, b);
     print_values(a, b);

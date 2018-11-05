@@ -13,6 +13,7 @@ void sum_reference(int& a, int b) {
 void print_values(int a, int b) {
     std::cout << "a: " << a << " b: " << b << '\n';
 }
+
 int main() {
     int a = 3;
     int b = 5;
@@ -21,6 +22,8 @@ int main() {
     std::cout << "result: " << result << '\n';
     sum_reference(a, b);
     print_values(a, b);
+
+    return EXIT_SUCCESS;
 }
 
 
